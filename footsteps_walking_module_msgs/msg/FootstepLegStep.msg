@@ -1,0 +1,3 @@
+float64 x_move_amplitude
+float64 y_move_amplitude
+float64 angle_move_amplitude
